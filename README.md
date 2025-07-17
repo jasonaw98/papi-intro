@@ -11,5 +11,6 @@ To run:
 ```bash
 bun run index.ts
 ```
+# Final Result
+<img width="1824" height="1476" alt="image" src="https://github.com/user-attachments/assets/794e5eb7-68d1-4414-b341-e5829e5de680" />
 
-This project was created using `bun init` in bun v1.2.18. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
