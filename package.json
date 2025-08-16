@@ -2,9 +2,7 @@
   "name": "polkadot-api-tutorial",
   "module": "index.ts",
   "type": "module",
-   "scripts": {
-    "postinstall": "papi"
-  },
+  "scripts": {},
   "private": true,
   "devDependencies": {
     "@types/bun": "latest"
@@ -13,7 +11,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@polkadot-api/descriptors": "file:.papi\\descriptors",
-    "polkadot-api": "^1.14.1"
+    "@polkadot-api/descriptors": "file:.papi/descriptors",
+    "polkadot-api": "^1.16.1"
   }
 }
